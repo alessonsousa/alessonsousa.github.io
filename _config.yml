@@ -1,0 +1,66 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Alesson Sousa
+title: Estudante IFCE Campus Cedro
+email: alessonsousaviana@gmail.com
+phone: (88) 9 9290-5827
+#website: ifce.edu.br/cedro
+
+# Social links
+#twitter_username: alessonsousa
+github_username:  alessonsousa
+#dribbble_username: alessonsousa
+# facebook_username: jekyll
+# flickr_username: alessonsousa
+ instagram_username: alessonsousa
+linkedin_username: alessonsousa
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: alessonsousa
+# googleplus_username: +jekyll
+
+# About Section
+about_title: Sobre Mim
+about_profile_image: assets/images/prefil.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Estudante no Instituto Federal de Educação Ciência e Tecnologia do Ceará - IFCE Campus Cedro.
+  Undergraduate em Sistema de Informação no terceiro semestre. 
+
+  Áreas de interesse:
+    - banco de Dados
+    - Programação Front-end
+    - Programação Back-end
+    - Informática Básica
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+#more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

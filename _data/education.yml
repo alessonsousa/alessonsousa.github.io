@@ -1,0 +1,11 @@
+# Education Template
+
+- layout: left
+  name: Instituto Federal de Educação Ciência e Tecnologia do Ceará - IFCE Campus Cedro
+  dates: 2019 - 2022
+  qualification: Sistema de informação
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Curso de Graduação bacharelado Sistema de Informação
+
